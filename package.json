@@ -15,11 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://githost.com/camper/repo.git"
+    "url": "https://github.com/Lana-Light/Timestamp_Microservice"
   },
   "keywords": [
     "node",
-    "hyperdev",
+    "timestamp",
+    "api",
     "express",
     "freecodecamp"
   ],
